@@ -1,2 +1,5 @@
 # Arduino_MazeTreasureHuntTrolleyRobot
 Arduino迷宫寻宝小车
+
+实现在3*3的迷宫内寻找3种颜色立方体宝藏，并且实现用舵机控制摄像头模拟拍照，然后原路返回走出迷宫。
+代码与具体传感器摆放位置有关仅供参考。
